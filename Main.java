@@ -50,6 +50,7 @@ No | Feature                                                                    
 ## D. Link to Part 2 GitHub Repo
 
 https: //github.com/Hamad113/GoBoom.git
+https://youtu.be/a-kdceF7CTM
 
 import java.util.Arrays;
 import java.util.List;
