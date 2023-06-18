@@ -49,7 +49,7 @@ No | Feature                                                                    
 
 ## D. Link to Part 2 GitHub Repo
 
-https://link_to_your_GitHub_repo
+https: //github.com/Hamad113/GoBoom.git
 
 import java.util.Arrays;
 import java.util.List;
